@@ -20,7 +20,7 @@ This project fine-tunes LLaMA-3.2-1B-Instruct using LoRA for the PathoQA Dataset
 ## Environment Setup
 
 ```bash
-conda create -n llama-lora python=3.10
+conda create -n llama-lora python=3.13.5
 conda activate llama-lora
 
 pip install -r requirements.txt
