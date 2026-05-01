@@ -1,4 +1,4 @@
-#  aperRAG: Hallucination Detection with RAG + QLoRA (
+#  PaperRAG: Hallucination Detection with RAG + QLoRA
 
 ##  Overview
 
