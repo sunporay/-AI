@@ -1,4 +1,4 @@
-# LLaMA 1B LoRA Fine-tuned for PathoQA Dataset
+# LLaMA-3.2-1B LoRA Fine-tuned for PathoQA Dataset
 
 This project fine-tunes LLaMA-3.2-1B-Instruct using LoRA for the PathoQA Dataset.
 
